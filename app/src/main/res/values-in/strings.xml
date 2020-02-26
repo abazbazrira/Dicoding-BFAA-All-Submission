@@ -1,0 +1,203 @@
+<resources>
+    <string name="app_name">MadeSubmission2</string>
+
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Serial TV</string>
+    <string name="content_tab_movie">Ini adalah Fragment Film</string>
+    <string name="content_tab_tvshow">Ini adalah Fragment Serial TV</string>
+
+    <string name="title_1">Detil Film</string>
+    <string name="title_2">Detil Serial TV</string>
+
+    <string name="duration">Durasi</string>
+    <string name="_1h_52m">1h 52m</string>
+    <string name="a_star_is_born">A Star is Born</string>
+    <string name="image_poster">Gambar</string>
+    <string name="detail">Detil</string>
+    <string name="genre">Aliran</string>
+    <string name="action">Aksi</string>
+    <string name="title">Dragon Ball</string>
+    <string name="lorem_ipsum">Lorem ipsum</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_title">
+        <item>A Star is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers: Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bohemian</item>
+        <item>Bumblebee</item>
+        <item>Creed</item>
+        <item>Once Upon a Deadpool</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Dragon Ball</item>
+        <item>Glass</item>
+        <item>Hunter Killer</item>
+        <item>Mary Poppins</item>
+        <item>Mortal Engine</item>
+        <item>Preman Pensiun</item>
+        <item>Robin Hood</item>
+        <item>Spiderman: Into the Spider-Verse</item>
+        <item>The Girl in the Spider\'s Web</item>
+        <item>The Mule</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Drama, Romantis</item>
+        <item>Aksi, Petualangan</item>
+        <item>Petualangan, Aksi</item>
+        <item>Pembunuhan, Drama</item>
+        <item>Drama, Musik</item>
+        <item>Aksi, Petualangan</item>
+        <item>Drama</item>
+        <item>Komedi, Aksi</item>
+        <item>Animasi, Keluarga, Petualangan</item>
+        <item>Aksi, Animasi, Fantasi</item>
+        <item>Pembunuhan, Drama, Fiksi Ilmiah</item>
+        <item>Aksi, Pembunuhan</item>
+        <item>Fantasi, Keluarga, Komedi</item>
+        <item>Petualangan, Fantasi</item>
+        <item>Komedi, Drama</item>
+        <item>Petualangan, Aksi, Pembunuhan</item>
+        <item>Aksi, Petualangan, Komedi</item>
+        <item>Aksi, Kriminal, Pembunuhan</item>
+        <item>Kriminal, Drama, Pembunuhan</item>
+        <item>Fiksi Ilmiah, Aksi</item>
+    </string-array>
+
+    <string-array name="data_duration">
+        <item>2j 15m</item>
+        <item>2j 24m</item>
+        <item>2j 29m</item>
+        <item>2j 4m</item>
+        <item>2j 15m</item>
+        <item>1j 54m</item>
+        <item>2j 10m</item>
+        <item>1j 57m</item>
+        <item>1j 44m</item>
+        <item>1j 41m</item>
+        <item>2j 9m</item>
+        <item>2j 2m</item>
+        <item>2j 11m</item>
+        <item>2j 9m</item>
+        <item>1j 34m</item>
+        <item>1j 56m</item>
+        <item>1j 57m</item>
+        <item>1j 57m</item>
+        <item>1j 57m</item>
+        <item>1j 52m</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karier Ally lepas landas, sisi pribadi dari hubungan mereka hancur, ketika Jack berjuang terus-menerus dengan setan-setan internalnya sendiri.</item>
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, saudara tiri manusia setengah manusia Orm dan pewaris sejati tahta.</item>
+        <item>Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan yang tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.</item>
+        <item>Lima tahun setelah kehadiran tak terlihat yang tak menyenangkan membuat sebagian besar masyarakat bunuh diri, seorang yang selamat dan dua anaknya melakukan upaya putus asa untuk mencapai keselamatan.</item>
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock \'n\' roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercury yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band bersama di tengah kesuksesan dan kelebihan.</item>
+        <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan tempat perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie menghidupkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa.</item>
+        <item>Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya.</item>
+        <item>Fred Savage yang diculik dipaksa untuk menahan Deadpool PG-13 rendition of Deadpool 2 sebagai cerita Princess Bride-esque yang penuh dengan keajaiban, keajaiban &amp; nol F.</item>
+        <item>Ketika Hiccup memenuhi mimpinya untuk menciptakan utopia naga yang damai, penemuan Toothless dari pasangan yang tak teruji dan sukar ditangkap membuat Night Fury menjauh. Ketika bahaya meningkat di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, baik naga dan pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka.</item>
+        <item>Bumi damai setelah Turnamen Kekuasaan. Menyadari bahwa alam semesta masih memiliki banyak orang yang lebih kuat untuk dilihat, Goku menghabiskan seluruh hari pelatihannya untuk mencapai ketinggian yang lebih besar. Lalu suatu hari, Goku dan Vegeta dihadapkan pada seorang Saiyan bernama \'Broly\' yang belum pernah mereka lihat sebelumnya. Orang-orang Saiyan seharusnya hampir sepenuhnya musnah dalam kehancuran Planet Vegeta, jadi apa yang dilakukan orang ini di Bumi? Pertemuan antara tiga Saiyan yang telah mengikuti takdir yang sangat berbeda ini berubah menjadi pertempuran yang luar biasa, dengan bahkan Frieza (kembali dari Neraka) terperangkap dalam campuran.</item>
+        <item>Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai seorang orkestra yang menyimpan rahasia penting bagi keduanya.</item>
+        <item>Kapten Glass dari USS Arkansas menemukan bahwa kudeta sedang terjadi di Rusia, jadi ia dan krunya bergabung dengan kelompok elit yang bekerja di lapangan untuk mencegah perang.</item>
+        <item>Dalam London era Depresi, Jane dan Michael Banks yang sudah dewasa, bersama dengan tiga anak Michael, dikunjungi oleh Mary Poppins yang penuh teka-teki setelah kehilangan pribadi. Melalui keterampilan magisnya yang unik, dan dengan bantuan temannya Jack, dia membantu keluarga menemukan kembali sukacita dan keajaiban yang hilang dalam hidup mereka.</item>
+        <item>Beribu-ribu tahun di masa depan, kota-kota di bumi menjelajah dunia dengan roda besar, saling melahap dalam perjuangan untuk sumber daya yang semakin berkurang. Di salah satu kota traksi besar ini, London tua, Tom Natsworthy mengalami pertemuan tak terduga dengan seorang wanita muda misterius dari daerah terlantar yang akan mengubah jalan hidupnya selamanya.</item>
+        <item>Setelah tiga tahun, bisnis Muslihat (Epi Kusnandar), yang telah pensiun sebagai preman, memiliki masalah. Penurunan penjualan. Muslihat juga menghadapi masalah baru ketika Safira (Safira Maharani), satu-satunya anak perempuannya, tumbuh di masa remaja dan mulai dikunjungi oleh anak laki-laki. Masalah yang lebih besar: gesekan antara mantan bawahannya.</item>
+        <item>Seorang pejuang perang yang keras dan komandan Moornya melakukan pemberontakan yang berani melawan mahkota Inggris yang korup.</item>
+        <item>Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Ketika Wilson "Kingpin" Fisk menggunakan collider super, yang lain dari seberang Spider-Verse diangkut ke dimensi ini.</item>
+        <item>Di Stockholm, Swedia, peretas Lisbeth Salander disewa oleh Frans Balder, seorang insinyur komputer, untuk mengambil program yang menurutnya terlalu berbahaya untuk ada.</item>
+        <item>Earl Stone, seorang pria berusia delapan puluhan, bangkrut, sendirian, dan menghadapi penyitaan bisnisnya ketika ia ditawari pekerjaan yang hanya mengharuskannya mengemudi. Cukup mudah, tetapi, tanpa diketahui Earl, dia baru saja mendaftar sebagai kurir narkoba untuk kartel Meksiko. Dia melakukannya dengan baik sehingga muatannya meningkat secara eksponensial, dan Earl menabrak radar agen DEA yang sibuk mengisi daya.</item>
+        <item>Jurnalis investigasi Eddie Brock mencoba untuk kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi bayangan yang mencari simbiosis mereka sendiri.</item>
+    </string-array>
+
+    <array name="data_image">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_marrypopins</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_thegirl</item>
+        <item>@drawable/poster_themule</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+
+    <string-array name="tv_title">
+        <item>4 Blocks</item>
+        <item>Fear The Walking Dead</item>
+        <item>His Dark Material</item>
+        <item>Law and Order</item>
+        <item>Rick and Morty</item>
+        <item>See</item>
+        <item>Supernatural</item>
+        <item>The Arrow</item>
+        <item>The Flash</item>
+        <item>The Simpsons</item>
+    </string-array>
+
+    <string-array name="tv_genre">
+        <item>Drama</item>
+        <item>Drama, Horor</item>
+        <item>Drama, Fiksi Ilmiah</item>
+        <item>Kriminal, Drama</item>
+        <item>Fiksi Ilmiah, Animasi, Komedi</item>
+        <item>Fiksi Ilmiah, Drama</item>
+        <item>Drama, Misteri, Fiksi Ilmiah</item>
+        <item>Kriminal, Drama, Misteri</item>
+        <item>Drama, Fiksi Ilmiah</item>
+        <item>Animasi, Komedi</item>
+    </string-array>
+
+    <string-array name="tv_duration">
+        <item>50m</item>
+        <item>43m, 60m</item>
+        <item>59m</item>
+        <item>43m</item>
+        <item>22m</item>
+        <item>60m</item>
+        <item>45m</item>
+        <item>42m</item>
+        <item>44m</item>
+        <item>22m</item>
+    </string-array>
+
+    <string-array name="tv_desc">
+        <item>Berbasis di Neukölln, Berlin Toni mengelola bisnis harian berurusan dengan geng Arab dan akhirnya ingin meninggalkan kehidupan lamanya untuk keluarganya, tetapi seperti yang diharapkan, tidak pernah sesederhana itu.</item>
+        <item>Seperti apa dunia saat berubah menjadi kiamat mengerikan yang digambarkan dalam "The Walking Dead"? Spin-off ini ditetapkan di Los Angeles, mengikuti karakter baru saat mereka menghadapi awal akhir dunia, akan menjawab pertanyaan itu.</item>
+        <item>Lyra adalah seorang yatim piatu yang hidup di alam semesta paralel di mana sains, teologi, dan sihir terjalin. Pencarian Lyra untuk seorang teman yang diculik mengungkap plot jahat yang melibatkan anak-anak yang dicuri dan berubah menjadi upaya untuk memahami fenomena misterius yang disebut Dust. Dia kemudian bergabung dalam perjalanannya oleh Will, seorang bocah lelaki yang memiliki pisau yang dapat memotong jendela antar dunia. Ketika Lyra mengetahui kebenaran tentang orang tuanya dan takdirnya yang dinubuatkan, kedua orang muda itu terperangkap dalam perang melawan kekuatan selestial yang tersebar di banyak dunia.</item>
+        <item>Dalam sistem peradilan pidana, pelanggaran berbasis seksual dianggap sangat kejam. Di New York City, detektif yang berdedikasi yang menyelidiki kejahatan keji ini adalah anggota pasukan elit yang dikenal sebagai Unit Korban Khusus. Ini adalah kisah mereka.</item>
+        <item>Rick adalah orang tua yang tidak seimbang secara mental tetapi berbakat secara ilmiah yang baru-baru ini terhubung kembali dengan keluarganya. Dia menghabiskan sebagian besar waktunya dengan melibatkan cucunya yang muda, Morty, dalam petualangan berbahaya dan aneh di luar angkasa dan alam semesta alternatif. Ditambah dengan kehidupan keluarga Morty yang sudah tidak stabil, peristiwa-peristiwa ini menyebabkan Morty sangat tertekan di rumah dan sekolah.</item>
+        <item>Virus telah menghancurkan manusia. Mereka yang selamat ternyata buta. Berabad-abad kemudian ketika anak kembar dilahirkan dengan kemampuan mitis untuk melihat, ayah mereka harus melindungi sukunya dari ratu yang terancam.</item>
+        <item>Ketika mereka masih kecil, Sam dan Dean Winchester kehilangan ibu mereka karena kekuatan gaib yang misterius dan iblis. Selanjutnya, ayah mereka membesarkan mereka menjadi tentara. Dia mengajari mereka tentang kejahatan paranormal yang hidup di sudut-sudut gelap dan di jalan belakang Amerika ... dan dia mengajari mereka cara membunuhnya. Sekarang, saudara-saudara Winchester menjelajahi negara itu dengan \'67 Chevy Impala mereka, melawan setiap jenis ancaman supernatural yang mereka temui di sepanjang jalan</item>
+        <item>Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas ketika kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur.</item>
+        <item>Setelah akselerator partikel menyebabkan badai aneh, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya senang dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya "manusia meta" yang diciptakan setelah ledakan akselerator - dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat, tetapi tidak lama sebelum dunia mengetahui apa yang menjadi Barry Allen ... The Flash.</item>
+        <item>Bertempat di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari keluarga Simpson; Homer, Marge, Bart, Lisa dan Maggie, serta ribuan pemain virtual. Sejak awal, serial ini telah menjadi ikon budaya pop, menarik ratusan selebriti menjadi bintang tamu. Acara ini juga menjadi terkenal karena satirnya yang tak kenal takut terhadap kehidupan politik, media, dan Amerika secara umum.</item>
+    </string-array>
+
+    <array name="tv_image">
+        <item>@drawable/tv_4blocks</item>
+        <item>@drawable/tv_fearthewalkingdead</item>
+        <item>@drawable/tv_hisdarkmaterial</item>
+        <item>@drawable/tv_laworder</item>
+        <item>@drawable/tv_rickandmorty</item>
+        <item>@drawable/tv_see</item>
+        <item>@drawable/tv_supernatural</item>
+        <item>@drawable/tv_thearrow</item>
+        <item>@drawable/tv_theflash</item>
+        <item>@drawable/tv_thesimpsons</item>
+    </array>
+</resources>

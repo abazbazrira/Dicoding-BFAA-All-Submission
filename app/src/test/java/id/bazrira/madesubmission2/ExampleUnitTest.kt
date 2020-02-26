@@ -1,4 +1,4 @@
-package id.bazrira.madesubmission1
+package id.bazrira.madesubmission2
 
 import org.junit.Test
 
