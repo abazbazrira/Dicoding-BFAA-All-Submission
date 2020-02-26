@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MadeSubmission3</string>
+    <string name="app_name">MadeSubmission4</string>
 
     <string name="tab_text_1">Film</string>
     <string name="tab_text_2">Serial TV</string>
@@ -18,18 +18,7 @@
 
     <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
 
-    <string-array name="tv_title">
-        <item>4 Blocks</item>
-        <item>Fear The Walking Dead</item>
-        <item>His Dark Material</item>
-        <item>Law and Order</item>
-        <item>Rick and Morty</item>
-        <item>See</item>
-        <item>Supernatural</item>
-        <item>The Arrow</item>
-        <item>The Flash</item>
-        <item>The Simpsons</item>
-    </string-array>
+    <string name="favorites">Favorit</string>
 
     <string-array name="tv_genre">
         <item>Drama</item>
@@ -43,43 +32,5 @@
         <item>Drama, Fiksi Ilmiah</item>
         <item>Animasi, Komedi</item>
     </string-array>
-
-    <string-array name="tv_duration">
-        <item>50m</item>
-        <item>43m, 60m</item>
-        <item>59m</item>
-        <item>43m</item>
-        <item>22m</item>
-        <item>60m</item>
-        <item>45m</item>
-        <item>42m</item>
-        <item>44m</item>
-        <item>22m</item>
-    </string-array>
-
-    <string-array name="tv_desc">
-        <item>Berbasis di Neukölln, Berlin Toni mengelola bisnis harian berurusan dengan geng Arab dan akhirnya ingin meninggalkan kehidupan lamanya untuk keluarganya, tetapi seperti yang diharapkan, tidak pernah sesederhana itu.</item>
-        <item>Seperti apa dunia saat berubah menjadi kiamat mengerikan yang digambarkan dalam "The Walking Dead"? Spin-off ini ditetapkan di Los Angeles, mengikuti karakter baru saat mereka menghadapi awal akhir dunia, akan menjawab pertanyaan itu.</item>
-        <item>Lyra adalah seorang yatim piatu yang hidup di alam semesta paralel di mana sains, teologi, dan sihir terjalin. Pencarian Lyra untuk seorang teman yang diculik mengungkap plot jahat yang melibatkan anak-anak yang dicuri dan berubah menjadi upaya untuk memahami fenomena misterius yang disebut Dust. Dia kemudian bergabung dalam perjalanannya oleh Will, seorang bocah lelaki yang memiliki pisau yang dapat memotong jendela antar dunia. Ketika Lyra mengetahui kebenaran tentang orang tuanya dan takdirnya yang dinubuatkan, kedua orang muda itu terperangkap dalam perang melawan kekuatan selestial yang tersebar di banyak dunia.</item>
-        <item>Dalam sistem peradilan pidana, pelanggaran berbasis seksual dianggap sangat kejam. Di New York City, detektif yang berdedikasi yang menyelidiki kejahatan keji ini adalah anggota pasukan elit yang dikenal sebagai Unit Korban Khusus. Ini adalah kisah mereka.</item>
-        <item>Rick adalah orang tua yang tidak seimbang secara mental tetapi berbakat secara ilmiah yang baru-baru ini terhubung kembali dengan keluarganya. Dia menghabiskan sebagian besar waktunya dengan melibatkan cucunya yang muda, Morty, dalam petualangan berbahaya dan aneh di luar angkasa dan alam semesta alternatif. Ditambah dengan kehidupan keluarga Morty yang sudah tidak stabil, peristiwa-peristiwa ini menyebabkan Morty sangat tertekan di rumah dan sekolah.</item>
-        <item>Virus telah menghancurkan manusia. Mereka yang selamat ternyata buta. Berabad-abad kemudian ketika anak kembar dilahirkan dengan kemampuan mitis untuk melihat, ayah mereka harus melindungi sukunya dari ratu yang terancam.</item>
-        <item>Ketika mereka masih kecil, Sam dan Dean Winchester kehilangan ibu mereka karena kekuatan gaib yang misterius dan iblis. Selanjutnya, ayah mereka membesarkan mereka menjadi tentara. Dia mengajari mereka tentang kejahatan paranormal yang hidup di sudut-sudut gelap dan di jalan belakang Amerika ... dan dia mengajari mereka cara membunuhnya. Sekarang, saudara-saudara Winchester menjelajahi negara itu dengan \'67 Chevy Impala mereka, melawan setiap jenis ancaman supernatural yang mereka temui di sepanjang jalan</item>
-        <item>Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas ketika kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur.</item>
-        <item>Setelah akselerator partikel menyebabkan badai aneh, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya senang dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya "manusia meta" yang diciptakan setelah ledakan akselerator - dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat, tetapi tidak lama sebelum dunia mengetahui apa yang menjadi Barry Allen ... The Flash.</item>
-        <item>Bertempat di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari keluarga Simpson; Homer, Marge, Bart, Lisa dan Maggie, serta ribuan pemain virtual. Sejak awal, serial ini telah menjadi ikon budaya pop, menarik ratusan selebriti menjadi bintang tamu. Acara ini juga menjadi terkenal karena satirnya yang tak kenal takut terhadap kehidupan politik, media, dan Amerika secara umum.</item>
-    </string-array>
-
-    <array name="tv_image">
-        <item>@drawable/tv_4blocks</item>
-        <item>@drawable/tv_fearthewalkingdead</item>
-        <item>@drawable/tv_hisdarkmaterial</item>
-        <item>@drawable/tv_laworder</item>
-        <item>@drawable/tv_rickandmorty</item>
-        <item>@drawable/tv_see</item>
-        <item>@drawable/tv_supernatural</item>
-        <item>@drawable/tv_thearrow</item>
-        <item>@drawable/tv_theflash</item>
-        <item>@drawable/tv_thesimpsons</item>
-    </array>
+    <string name="title_activity_home">HomeActivity</string>
 </resources>

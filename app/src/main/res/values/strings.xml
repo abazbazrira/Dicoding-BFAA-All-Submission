@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MadeSubmission3</string>
+    <string name="app_name">MadeSubmission4</string>
 
     <string name="tab_text_1">Movies</string>
     <string name="tab_text_2">TV Shows</string>
@@ -18,19 +18,7 @@
     <string name="failed_to_load_data">Failed to load data. Re-check your internet network.</string>
 
     <string name="change_language_settings">Change Language Settings</string>
-
-    <string-array name="tv_title">
-        <item>4 Blocks</item>
-        <item>Fear The Walking Dead</item>
-        <item>His Dark Material</item>
-        <item>Law and Order</item>
-        <item>Rick and Morty</item>
-        <item>See</item>
-        <item>Supernatural</item>
-        <item>The Arrow</item>
-        <item>The Flash</item>
-        <item>The Simpsons</item>
-    </string-array>
+    <string name="favorites">Favorites</string>
 
     <string-array name="tv_genre">
         <item>Drama</item>
@@ -44,43 +32,8 @@
         <item>Drama, Sci-Fi</item>
         <item>Animation, Comedy</item>
     </string-array>
+    <string name="title_activity_home">HomeActivity</string>
 
-    <string-array name="tv_duration">
-        <item>50m</item>
-        <item>43m, 60m</item>
-        <item>59m</item>
-        <item>43m</item>
-        <item>22m</item>
-        <item>60m</item>
-        <item>45m</item>
-        <item>42m</item>
-        <item>44m</item>
-        <item>22m</item>
-    </string-array>
-
-    <string-array name="tv_desc">
-        <item>Based in Neukölln, Berlin Toni manages the daily business of dealing with the Arabic gangs and ends up wanting to leave his old life behind for his family, but as expected, it\'s never that simple.</item>
-        <item>What did the world look like as it was transforming into the horrifying apocalypse depicted in "The Walking Dead"? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.</item>
-        <item>Lyra is an orphan who lives in a parallel universe in which science, theology and magic are entwined. Lyra\'s search for a kidnapped friend uncovers a sinister plot involving stolen children, and turns into a quest to understand a mysterious phenomenon called Dust. She is later joined on her journey by Will, a boy who possesses a knife that can cut windows between worlds. As Lyra learns the truth about her parents and her prophesied destiny, the two young people are caught up in a war against celestial powers that ranges across many worlds.</item>
-        <item>In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.</item>
-        <item>Rick is a mentally-unbalanced but scientifically-gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty\'s already unstable family life, these events cause Morty much distress at home and school.</item>
-        <item>A virus has decimated humankind. Those who survived emerged blind. Centuries later when twins are born with the mythic ability to see, their father must protect his tribe against a threatened queen.</item>
-        <item>When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their \'67 Chevy Impala, battling every kind of supernatural threat they encounter along the way</item>
-        <item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.</item>
-        <item>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only "meta-human" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won\'t be long before the world learns what Barry Allen has become...The Flash.</item>
-        <item>Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.</item>
-    </string-array>
-
-    <array name="tv_image">
-        <item>@drawable/tv_4blocks</item>
-        <item>@drawable/tv_fearthewalkingdead</item>
-        <item>@drawable/tv_hisdarkmaterial</item>
-        <item>@drawable/tv_laworder</item>
-        <item>@drawable/tv_rickandmorty</item>
-        <item>@drawable/tv_see</item>
-        <item>@drawable/tv_supernatural</item>
-        <item>@drawable/tv_thearrow</item>
-        <item>@drawable/tv_theflash</item>
-        <item>@drawable/tv_thesimpsons</item>
-    </array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
