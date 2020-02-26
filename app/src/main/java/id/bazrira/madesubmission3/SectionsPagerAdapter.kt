@@ -1,4 +1,4 @@
-package id.bazrira.madesubmission2
+package id.bazrira.madesubmission3
 
 import android.content.Context
 import androidx.annotation.Nullable
@@ -6,6 +6,8 @@ import androidx.annotation.StringRes
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentPagerAdapter
+import id.bazrira.madesubmission3.view.movie.fragment.MovieFragment
+import id.bazrira.madesubmission3.view.tv.fragment.TvShowFragment
 
 class SectionsPagerAdapter(private val mContext: Context, fm: FragmentManager) :
     FragmentPagerAdapter(fm, BEHAVIOR_RESUME_ONLY_CURRENT_FRAGMENT) {

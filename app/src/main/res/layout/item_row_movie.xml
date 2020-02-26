@@ -13,11 +13,11 @@
         android:layout_marginLeft="@dimen/activity_horizontal_margin"
         android:layout_marginTop="@dimen/activity_vertical_margin"
         android:layout_marginBottom="@dimen/activity_vertical_margin"
-        android:contentDescription="@string/image_poster"
         android:scaleType="fitXY"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="ContentDescription" />
 
     <TextView
         android:id="@+id/tv_title"
@@ -28,7 +28,6 @@
         android:layout_marginTop="@dimen/activity_vertical_margin"
         android:ellipsize="end"
         android:singleLine="true"
-        android:text="@string/a_star_is_born"
         android:textAllCaps="true"
         android:textSize="18sp"
         android:textStyle="bold"
@@ -37,50 +36,48 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/tv_duration"
-        android:layout_width="80dp"
+        android:id="@+id/tv_release_date"
+        android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/activity_vertical_margin"
         android:layout_marginLeft="@dimen/activity_vertical_margin"
         android:layout_marginTop="8dp"
-        android:text="@string/duration"
+        android:text="@string/release_date"
         app:layout_constraintStart_toEndOf="@+id/iv_poster"
         app:layout_constraintTop_toBottomOf="@+id/tv_title" />
 
     <TextView
-        android:id="@+id/tv_content_duration"
+        android:id="@+id/tv_content_release_date"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:text="@string/_1h_52m"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="@+id/btn_detail_movie"
-        app:layout_constraintStart_toEndOf="@+id/tv_duration"
+        app:layout_constraintStart_toEndOf="@+id/tv_release_date"
         app:layout_constraintTop_toBottomOf="@+id/tv_title" />
 
     <TextView
-        android:id="@+id/tv_genre"
-        android:layout_width="80dp"
+        android:id="@+id/tv_rating"
+        android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/activity_horizontal_margin"
         android:layout_marginLeft="@dimen/activity_horizontal_margin"
         android:layout_marginTop="4dp"
-        android:text="@string/genre"
+        android:text="@string/rating"
         app:layout_constraintStart_toEndOf="@+id/iv_poster"
-        app:layout_constraintTop_toBottomOf="@+id/tv_duration" />
+        app:layout_constraintTop_toBottomOf="@+id/tv_release_date" />
 
     <TextView
-        android:id="@+id/tv_content_genre"
+        android:id="@+id/tv_content_rating"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="4dp"
         android:ellipsize="end"
         android:singleLine="true"
-        android:text="@string/action"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="@+id/btn_detail_movie"
-        app:layout_constraintStart_toEndOf="@+id/tv_genre"
-        app:layout_constraintTop_toBottomOf="@+id/tv_content_duration" />
+        app:layout_constraintStart_toEndOf="@+id/tv_rating"
+        app:layout_constraintTop_toBottomOf="@+id/tv_content_release_date" />
 
     <Button
         android:id="@+id/btn_detail_movie"
