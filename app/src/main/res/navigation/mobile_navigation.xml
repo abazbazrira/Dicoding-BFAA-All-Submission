@@ -3,21 +3,22 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@+id/movie">
+    app:startDestination="@+id/movie"
+    tools:ignore="UnusedNavigation">
 
     <fragment
         android:id="@+id/movie"
-        android:name="id.bazrira.madesubmission4.view.movie.fragment.MovieFragment"
+        android:name="id.bazrira.madesubmission5.ui.view.movie.fragment.MovieFragment"
         android:label="@string/tab_text_1"
         tools:layout="@layout/fragment_movie" />
     <fragment
         android:id="@+id/tv_show"
-        android:name="id.bazrira.madesubmission4.view.tv.fragment.TvShowFragment"
+        android:name="id.bazrira.madesubmission5.ui.view.tv.fragment.TvShowFragment"
         android:label="@string/tab_text_2"
         tools:layout="@layout/fragment_tv_show" />
     <fragment
         android:id="@+id/favorite"
-        android:name="id.bazrira.madesubmission4.view.favorite.fragment.FavoriteFragment"
+        android:name="id.bazrira.madesubmission5.ui.view.favorite.fragment.FavoriteFragment"
         android:label="@string/favorites"
         tools:layout="@layout/fragment_favorite" />
 </navigation>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Favorite App</string>
+
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">TV Shows</string>
+    <string name="content_tab_movie">This is Movie Fragment</string>
+    <string name="content_tab_tvshow">This is Tv Show Fragment</string>
+
+    <string name="title_1">Detail Movie</string>
+    <string name="title_2">Detail TV Shows</string>
+
+    <string name="release_date">Release Date</string>
+    <string name="rating">Rating</string>
+    <string name="description">Description</string>
+
+    <string name="detail">Detail</string>
+
+    <string name="failed_to_load_data">Failed to load data. Re-check your internet network.</string>
+
+    <string name="change_language_settings">Change Language Settings</string>
+</resources>

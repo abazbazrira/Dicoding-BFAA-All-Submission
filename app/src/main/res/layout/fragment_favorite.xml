@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".view.favorite.fragment.FavoriteFragment">
+    tools:context=".ui.view.favorite.fragment.FavoriteFragment">
 
     <com.google.android.material.tabs.TabLayout
         android:id="@+id/tabs"

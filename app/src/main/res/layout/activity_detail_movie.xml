@@ -2,11 +2,11 @@
 <androidx.swiperefreshlayout.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/swlayout"
+    android:id="@+id/sw_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_marginBottom="@dimen/activity_vertical_margin"
-    tools:context=".view.movie.activity.DetailMovieActivity">
+    tools:context=".ui.view.movie.activity.DetailMovieActivity">
 
     <ScrollView
         android:layout_width="match_parent"

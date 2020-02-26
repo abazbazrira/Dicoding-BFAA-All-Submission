@@ -1,13 +1,13 @@
 <resources>
-    <string name="app_name">MadeSubmission4</string>
+    <string name="app_name">madesubmission5</string>
 
     <string name="tab_text_1">Film</string>
-    <string name="tab_text_2">Serial TV</string>
+    <string name="tab_text_2">Acara TV</string>
     <string name="content_tab_movie">Ini adalah Fragment Film</string>
-    <string name="content_tab_tvshow">Ini adalah Fragment Serial TV</string>
+    <string name="content_tab_tvshow">Ini adalah Fragment Acara TV</string>
 
     <string name="title_1">Detil Film</string>
-    <string name="title_2">Detil Serial TV</string>
+    <string name="title_2">Detil Acara TV</string>
 
     <string name="release_date">Tgl Rilis</string>
     <string name="rating">Peringkat</string>
@@ -19,6 +19,11 @@
     <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
 
     <string name="favorites">Favorit</string>
+
+    <string name="search">Cari</string>
+
+    <string name="appwidget_text">Favoritmu</string>
+    <string name="empty_text">DATA TIDAK DITEMUKAN</string>
 
     <string-array name="tv_genre">
         <item>Drama</item>
@@ -32,5 +37,15 @@
         <item>Drama, Fiksi Ilmiah</item>
         <item>Animasi, Komedi</item>
     </string-array>
+
     <string name="title_activity_home">HomeActivity</string>
+
+    <string name="reminder">Pengingat</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="release_reminder">Pengingat Rilis</string>
+    <string name="msg_daily_reminder">Film Katalog merindukanmu</string>
+    <string name="msg_cancel_daily_reminder">Pengingat harian dimatikan</string>
+    <string name="msg_release_reminder">Ingatkan Saya untuk memeriksa Film atau Acara TV terbaru</string>
+    <string name="title_activity_settings">Pengaturan</string>
+    <string name="has_been_release">telah rilis hari ini</string>
 </resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/search_navigation"
+    app:startDestination="@id/movie"
+    tools:ignore="UnusedNavigation">
+
+    <fragment
+        android:id="@+id/movie"
+        android:name="id.bazrira.madesubmission5.ui.view.search.fragment.SearchMovieFragment"
+        android:label="fragment_search_movie"
+        tools:layout="@layout/fragment_search_movie" >
+        <argument
+            android:name="extra_name"
+            app:argType="string"
+            android:defaultValue="default_name" />
+    </fragment>
+    <fragment
+        android:id="@+id/tv_show"
+        android:name="id.bazrira.madesubmission5.ui.view.search.fragment.SearchTvFragment"
+        android:label="fragment_search_tv"
+        tools:layout="@layout/fragment_search_tv" >
+        <argument
+            android:name="extra_name"
+            app:argType="string"
+            android:defaultValue="default_name" />
+    </fragment>
+</navigation>

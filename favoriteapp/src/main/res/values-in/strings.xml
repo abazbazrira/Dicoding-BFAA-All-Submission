@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Favorite App</string>
+
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Serial TV</string>
+    <string name="content_tab_movie">Ini adalah Fragment Film</string>
+    <string name="content_tab_tvshow">Ini adalah Fragment Serial TV</string>
+
+    <string name="title_1">Detil Film</string>
+    <string name="title_2">Detil Serial TV</string>
+
+    <string name="release_date">Tgl Rilis</string>
+    <string name="rating">Peringkat</string>
+    <string name="description">Deskripsi</string>
+    <string name="detail">Detil</string>
+
+    <string name="failed_to_load_data">Gagal memuat data. Periksa kembali jaringan internet Anda.</string>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+</resources>

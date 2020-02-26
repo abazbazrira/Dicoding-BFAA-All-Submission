@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MadeSubmission4</string>
+    <string name="app_name">madesubmission5</string>
 
     <string name="tab_text_1">Movies</string>
     <string name="tab_text_2">TV Shows</string>
@@ -21,6 +21,11 @@
 
     <string name="favorites">Favorites</string>
 
+    <string name="search">Search</string>
+
+    <string name="appwidget_text">Your Favorite</string>
+    <string name="empty_text">NO DATA</string>
+
     <string-array name="tv_genre">
         <item>Drama</item>
         <item>Drama, Horror</item>
@@ -33,5 +38,15 @@
         <item>Drama, Sci-Fi</item>
         <item>Animation, Comedy</item>
     </string-array>
+
     <string name="title_activity_home">HomeActivity</string>
+
+    <string name="reminder">Reminder</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="msg_daily_reminder">Remind me for open this apps</string>
+    <string name="msg_cancel_daily_reminder">Daily reminder inactive</string>
+    <string name="msg_release_reminder">Remind me for check release new Movie or Tv Show</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="has_been_release">has been release today</string>
 </resources>
